@@ -67,6 +67,10 @@ body {
   color: #2f3a3b;
   text-shadow: 1px 0 0 currentColor;
 }
+.header .btn.sign-in:hover{
+  color: #2f3a3b;
+  text-shadow: 1px 0 0 currentColor;
+}
 .header .full-stop {
   width: 5.85px;
   height: 5.958px;
@@ -130,6 +134,11 @@ body {
 .hero .cta-group {
   display: flex;
   align-items: center;
+}
+.hero .cta-group a:hover{
+  color: var(--primary-color);
+  background-color: #fff;
+  border: #0d1111 solid 1px;
 }
 .hero .content-block .btn {
   color: #fff;

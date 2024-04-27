@@ -363,7 +363,7 @@ body {
 /* =================course================== */
 
 .course .body {
-  height: 778px;
+  height: 910px;
 }
 .course .top-title {
   color: #767e7e;
@@ -470,7 +470,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 205px;
-  margin: 265px auto;
+  margin: 132px auto;
 }
 .countdown .static {
   color: #0d1111;
@@ -484,6 +484,7 @@ body {
 }
 /* ===================feedback============= */
 .feedback{
+  padding: 132px 0 130px;
   padding-bottom: 130px;
 }
 .feedback .block-quote {
